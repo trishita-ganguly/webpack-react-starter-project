@@ -9,7 +9,7 @@ constructor() {
 render() {
   return (
     <div className='container'>                
-    <h1 className='title'>React Starter</h1>
+    <h1 className='title'>React Starter Project</h1>
     </div>
     );
   }
